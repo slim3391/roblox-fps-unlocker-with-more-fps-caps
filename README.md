@@ -1,2 +1,1 @@
-# roblox-fps-unlocker-with-more-fps-caps
-WARNING this is based on axtin's own version anything earned from this will not be used
+THIS VERSION OF FPS UNLOCKER HAS MORE CAPS THAN THE V.4.5.0 VERSION OF AXTIN
