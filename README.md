@@ -1,2 +1,5 @@
-WARNING this is based on axtin's own version anything earned from this will not be used
-THIS IS ALSO A WORK IN PROGRESS
+WARNING you will have to download the 2 or 3 files that are necessary to make it work
+THE STEPS UNDER THIS LINE
+CREATE A FOLDER
+DOWNLOAD RBXFPSUNLOCKER AND SETTINGS AND PUT THEM IN A FOLDER THAT YOU CREATED
+OPEN IT AND DONE
